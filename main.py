@@ -1,1 +1,1 @@
-print('main.pyyy')
+print('main.yayapyyy')
