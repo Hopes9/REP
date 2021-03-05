@@ -1,1 +1,1 @@
-print('main.yayapyyy')
+print('main.cp')
